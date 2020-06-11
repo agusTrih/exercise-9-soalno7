@@ -29,7 +29,7 @@ const biodata = {
     },
 };
 
-console.log(`Hai, my name is ${biodata.name}, I  studied in ${biodata.college}. 
+console.log(`Hai, my name is ${biodata.name}, I studied in ${biodata.college}. 
 My programming skill are ${biodata.skills.programming.language} including using its framework ${biodata.skills.programming.framework1}, 
 ${biodata.skills.programming.language2}, and ${biodata.skills.programming.language3}. 
 My hobbies are ${biodata.hobbies.sleeping} and also ${biodata.hobbies.shopping}. 
