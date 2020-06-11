@@ -14,7 +14,7 @@ const biodata = {
     contact: {
         email: "laila@gmail.com",
         phone: {
-            countryCode: 021,
+            countryCode: "021",
             number: 153138,
         },
     },
